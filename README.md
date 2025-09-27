@@ -2,6 +2,9 @@
 
 This project is a solution for the [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview) competition. The goal is to predict which passengers survived the Titanic shipwreck using machine learning techniques.
 
+![alt text](titanic_sinking.png)
+
+
 ## Project Overview
 
 - **Data:** The dataset contains demographic and passenger information from 891 of the 2224 passengers and crew on board the Titanic.
